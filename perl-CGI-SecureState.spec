@@ -3,8 +3,8 @@
 %bcond_without	tests	# do perform "make test"
 #
 %include	/usr/lib/rpm/macros.perl
-%define	pdir	CGI
-%define	pnam	SecureState
+%define		pdir	CGI
+%define		pnam	SecureState
 Summary:	CGI::SecureState - transparent, secure statefulness for CGI programs
 Summary(pl):	CGI::SecureState - przezroczysta, bezpieczna obs³uga stanu dla programów CGI
 Name:		perl-CGI-SecureState

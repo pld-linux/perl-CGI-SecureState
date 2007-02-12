@@ -6,7 +6,7 @@
 %define		pdir	CGI
 %define		pnam	SecureState
 Summary:	CGI::SecureState - transparent, secure statefulness for CGI programs
-Summary(pl):	CGI::SecureState - przezroczysta, bezpieczna obs³uga stanu dla programów CGI
+Summary(pl.UTF-8):   CGI::SecureState - przezroczysta, bezpieczna obsÅ‚uga stanu dla programÃ³w CGI
 Name:		perl-CGI-SecureState
 Version:	0.36
 Release:	1
@@ -25,8 +25,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 CGI:SecureState provides interface to store session data in an
 encrypted file on server. Its similar in purpose to CGI::Persistent.
 
-%description -l pl
-CGI::SecureState udostêpnia interfejs do przechowywania danych sesji
+%description -l pl.UTF-8
+CGI::SecureState udostÄ™pnia interfejs do przechowywania danych sesji
 w zaszyfrowanym pliku na serwerze. Ma podobny cel co CGI::Persistent.
 
 %prep

@@ -6,7 +6,7 @@
 %define		pdir	CGI
 %define		pnam	SecureState
 Summary:	CGI::SecureState - transparent, secure statefulness for CGI programs
-Summary(pl.UTF-8):   CGI::SecureState - przezroczysta, bezpieczna obsługa stanu dla programów CGI
+Summary(pl.UTF-8):	CGI::SecureState - przezroczysta, bezpieczna obsługa stanu dla programów CGI
 Name:		perl-CGI-SecureState
 Version:	0.36
 Release:	1

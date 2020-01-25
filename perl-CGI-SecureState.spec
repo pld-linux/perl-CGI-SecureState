@@ -4,7 +4,6 @@
 
 %define		pdir	CGI
 %define		pnam	SecureState
-%include	/usr/lib/rpm/macros.perl
 Summary:	CGI::SecureState - transparent, secure statefulness for CGI programs
 Summary(pl.UTF-8):	CGI::SecureState - przezroczysta, bezpieczna obsługa stanu dla programów CGI
 Name:		perl-CGI-SecureState
